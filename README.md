@@ -1,6 +1,6 @@
 # create-britecore-docs
 
-Scaffolding a VuePress project
+Scaffolding a Britecore VuePress documentation project
 
 [![https://badgen.net/npm/v/create-britecore-docs](https://badgen.net/npm/v/create-britecore-docs)](https://www.npmjs.com/package/create-britecore-docs)
 [![https://badgen.net/npm/dt/create-britecore-docs](https://badgen.net/npm/dt/create-britecore-docs)](https://www.npmjs.com/package/create-britecore-docs)
